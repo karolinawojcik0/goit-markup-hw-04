@@ -303,6 +303,10 @@ ol {
   fill: currentColor;
 }
 
+.svg-footer {
+  fill: var(--light);
+}
+
 .section-title {
   color: var(--dark);
   font-family: inherit;

@@ -247,6 +247,17 @@ ol {
   text-align: center;
 }
 
+.social-network {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.ellipse {
+  width: 40px;
+  height: 40px;
+}
+
 .section-title {
   color: var(--dark);
   font-family: inherit;
@@ -257,7 +268,6 @@ ol {
   text-align: center;
   text-transform: capitalize;
   margin-bottom: 72px;
-
 }
 
 .background-section {

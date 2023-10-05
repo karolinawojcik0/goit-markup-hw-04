@@ -254,8 +254,8 @@ ol {
 }
 
 .clients-list {
-  display: inline-flex;
-  align-items: flex-start;
+  display: flex;
+
   gap: 24px;
 }
 

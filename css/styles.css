@@ -366,6 +366,21 @@ ol {
   margin-right: 120px;
 }
 
+.social-media-footer {
+  color: var(--white-background);
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.footer-list {
+  display: flex;
+  gap: 16px;
+}
+
+
 .studio-footer {
   color: #f4f4fd;
 }

@@ -270,9 +270,11 @@ ol {
   justify-content: center;
 }
 
-.social-items {
+
+.clients-items {
   width: calc((100% - 120px) / 6);
   height: 88px;
+  list-style: none;
 }
 
 .ellipse {

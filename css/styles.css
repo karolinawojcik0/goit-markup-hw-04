@@ -45,6 +45,11 @@ body {
   margin-bottom: 8px;
 }
 
+.container-footer {
+  display: flex;
+  align-items: baseline;
+}
+
 img {
   display: block;
 }
@@ -355,6 +360,10 @@ ol {
   text-transform: uppercase;
   display: inline-block;
   margin-bottom: 16px;
+}
+
+.brand {
+  margin-right: 120px;
 }
 
 .studio-footer {

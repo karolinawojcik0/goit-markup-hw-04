@@ -65,6 +65,10 @@ ol {
   text-decoration: none;
 }
 
+.link-card {
+  display: block;
+}
+
 .list {
   list-style: none;
 }

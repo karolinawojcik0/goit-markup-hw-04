@@ -286,8 +286,7 @@ ol {
 
 .clients:hover,
 .clients-focus {
-  color: var(--success);
-  border-color: var(--success);
+  background-color: var(--success);
 }
 
 .clients-items {

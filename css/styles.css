@@ -159,7 +159,6 @@ ol {
   padding: 24px 0;
 }
 
-
 .contact:hover,
 .contact:focus {
   color: var(--pressed-state);
@@ -418,14 +417,13 @@ ol {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  margin-bottom: 16px;
+  margin: 0 0 16px 0;
 }
 
 .footer-list {
   display: flex;
   gap: 16px;
 }
-
 
 .studio-footer {
   color: #f4f4fd;

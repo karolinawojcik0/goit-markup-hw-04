@@ -300,6 +300,11 @@ ol {
   justify-content: center;
 }
 
+.social-items:hover,
+.social-items:focus {
+  background-color: var(--success);
+}
+
 .svg-section-four {
   fill: var(--light);
 }

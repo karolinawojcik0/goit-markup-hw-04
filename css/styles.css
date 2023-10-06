@@ -314,8 +314,7 @@ ol {
 
 .social-items-index:hover,
 .social-items-index:focus {
-  color: var(--pressed-state);
-  background-color: var(--pressed-state);
+  background-color: var(--success);
 }
 
 .social-items-portfolio {

@@ -302,7 +302,7 @@ ol {
 }
 
 .social-items-index {
-  background-color: var(--pressed-state);
+  background-color: var(--primary-brand);
   width: 100%;
   height: 100%;
   border-radius: 50%;
@@ -313,7 +313,7 @@ ol {
 
 .social-items-index:hover,
 .social-items-index:focus {
-  background-color: var(--success);
+  background-color: var(--pressed-state);
 }
 
 .social-items-portfolio {

@@ -59,6 +59,7 @@ ol {
   list-style: none;
   margin: auto;
   padding-left: 0;
+  padding-right: 0;
 }
 
 .link {
@@ -174,7 +175,6 @@ ol {
 
   max-width: 1440px;
   height: 600px;
-
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

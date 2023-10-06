@@ -286,7 +286,8 @@ ol {
 
 .clients:hover,
 .clients-focus {
-  background-color: #404bbf;
+  color: var(--pressed-state);
+  border-color: var(--pressed-state);
 }
 
 .clients-items {
@@ -312,7 +313,8 @@ ol {
 
 .social-items-index:hover,
 .social-items-index:focus {
-  background-color: var(--success);
+  color: var(--pressed-state);
+  background-color: var(--pressed-state);
 }
 
 .social-items-portfolio {

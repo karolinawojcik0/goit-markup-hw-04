@@ -274,6 +274,7 @@ ol {
 
 .clients {
   color: var(--subtle-text);
+  border-color: var(--pressed-state);
   width: 100%;
   height: 100%;
   border: 1px solid var(--subtle-text);
@@ -413,7 +414,7 @@ ol {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  margin-bottom: 0 0 16px 0;
+  margin-bottom: 16px;
 }
 
 .footer-list {

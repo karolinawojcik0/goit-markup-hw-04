@@ -286,8 +286,8 @@ ol {
 
 .clients:hover,
 .clients-focus {
-  color: var(--pressed-state);
-  border-color: var(--pressed-state);
+  color: var(--success);
+  border-color: var(--success);
 }
 
 .clients-items {

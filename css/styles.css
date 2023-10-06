@@ -313,7 +313,7 @@ ol {
 
 .social-items-index:hover,
 .social-items-index:focus {
-  background-color: var(--pressed-state);
+  background-color: #404BBF;
 }
 
 .social-items-portfolio {
@@ -341,12 +341,9 @@ ol {
   justify-content: center;
 }
 
-.social-items-footer:hover {
-  background-color: var(--success);
-}
-
-.social-items-index:focus {
-  background-color: var(--success);
+.social-items-footer:hover,
+.social-items-footer:focus {
+  background-color: #31D0AA;
 }
 
 .svg-section-four {

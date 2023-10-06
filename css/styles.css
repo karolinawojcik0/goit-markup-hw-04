@@ -341,7 +341,10 @@ ol {
   justify-content: center;
 }
 
-.social-items-footer:hover,
+.social-items-footer:hover {
+  background-color: var(--success);
+}
+
 .social-items-index:focus {
   background-color: var(--success);
 }

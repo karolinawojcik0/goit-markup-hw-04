@@ -326,8 +326,8 @@ ol {
   justify-content: center;
 }
 
-.social-items-portfolio:focus,
-.social-items-portfolio:hover {
+.social-items-portfolio:hover,
+.social-items-portfolio:focus {
   background-color: #31D0AA;
 }
 
@@ -341,8 +341,8 @@ ol {
   justify-content: center;
 }
 
-.social-items-footer:focus,
-.social-items-index:hover {
+.social-items-footer:hover,
+.social-items-index:focus {
   background-color: var(--success);
 }
 

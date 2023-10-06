@@ -283,6 +283,13 @@ ol {
   justify-content: center;
 }
 
+.clients:hover,
+.clients-focus {
+  color: var(--pressed-state);
+  background-color: var(--pressed-state);
+
+}
+
 .clients-items {
   width: calc((100% - 120px) / 6);
   height: 88px;

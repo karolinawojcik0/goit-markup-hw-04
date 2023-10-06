@@ -343,7 +343,7 @@ ol {
 
 .social-items-footer:focus,
 .social-items-index:hover {
-  background-color: var(--pressed-state);
+  background-color: var(--success);
 }
 
 .svg-section-four {

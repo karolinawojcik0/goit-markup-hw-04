@@ -313,7 +313,7 @@ ol {
 
 .social-items-index:hover,
 .social-items-index:focus {
-  background-color: var(--pressed-state);
+  background-color: var(--success);
 }
 
 .social-items-portfolio {

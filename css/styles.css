@@ -173,6 +173,8 @@ ol {
 
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-studio/people-office.jpg);
   max-width: 1440px;
+  height: 600px;
+
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -184,6 +186,7 @@ ol {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  display: flex;
   max-width: 496px;
   margin: auto;
 
